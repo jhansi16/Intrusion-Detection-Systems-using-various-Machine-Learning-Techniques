@@ -4,8 +4,12 @@ Techniques used are:
 Random Forest
 
 Decision tree
+
 Support vector machine
+
 Naïve bayes
+
 Logistic regression
+
 Multi-Layer Perceptron
 
